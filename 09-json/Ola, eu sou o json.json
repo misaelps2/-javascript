@@ -1,0 +1,13 @@
+{
+    "nome": "Misael",
+    "idade": 27,
+    "cidade": "Goiania",
+    "Linguagens":[
+        "javascript",
+        "Typescript",
+        "Python",
+        "php"
+    ],
+    "Sistema operacional": "linux"
+}
+
