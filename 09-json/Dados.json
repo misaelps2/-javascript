@@ -1,0 +1,13 @@
+{
+    "usuario": "Misael",
+    "id": 25,
+    "idade": 18,
+    "ativo": true,
+    "dispositivos":[
+        "Macbok",
+        "Iphone",
+        "Ipad",
+        "SmartWatch"
+    ]
+
+}
