@@ -1,23 +1,22 @@
 /**
-
-* ============================================
-* JAVASCRIPT — FUNDAMENTOS
-* Arquivo: arrays.js
-* Tema: Arrays e acesso aos elementos
-* ============================================
-*
-* Neste arquivo estou praticando:
-*
-* * Criacao de arrays
-* * Armazenamento de diferentes valores
-* * Acesso aos elementos por indice
-* * Utilizacao da propriedade length
-*
-* Importante:
-* Os indices de um array comecam em 0.
-* O primeiro elemento fica no indice 0,
-* o segundo no indice 1, e assim por diante.
-  */
+ * ============================================
+ * JAVASCRIPT — FUNDAMENTOS
+ * Arquivo: arrays.js
+ * Tema: Arrays e acesso aos elementos
+ * ============================================
+ *
+ * Neste arquivo estou praticando:
+ *
+ * - Criacao de arrays
+ * - Armazenamento de diferentes valores
+ * - Acesso aos elementos por indice
+ * - Utilizacao da propriedade length
+ *
+ * Importante:
+ * Os indices de um array comecam em 0.
+ * O primeiro elemento fica no indice 0,
+ * o segundo no indice 1, e assim por diante.
+ */
 
 // Array com valores numericos representando idades.
 const idade = [23, 44, 12, 66, 27];
@@ -48,17 +47,16 @@ console.log(nome[2]);
 console.log(idade[4]);
 
 /**
-
-* RESUMO DO APRENDIZADO
-*
-* 1. Arrays permitem armazenar varios valores
-* em uma unica variavel.
-*
-* 2. Os indices comecam em zero.
-*
-* 3. A propriedade length informa a quantidade
-* de elementos existentes no array.
-*
-* 4. Podemos acessar um elemento utilizando
-* o nome do array e seu indice entre colchetes.
-  */
+ * RESUMO DO APRENDIZADO
+ *
+ * 1. Arrays permitem armazenar varios valores
+ *    em uma unica variavel.
+ *
+ * 2. Os indices comecam em zero.
+ *
+ * 3. A propriedade length informa a quantidade
+ *    de elementos existentes no array.
+ *
+ * 4. Podemos acessar um elemento utilizando
+ *    o nome do array e seu indice entre colchetes.
+ */
